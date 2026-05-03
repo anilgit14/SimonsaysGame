@@ -1,2 +1,2 @@
 # SimonsaysGame
-"Simon Says" is a classic children’s elimination game where players follow commands only when preceded by the phrase "Simon says". One leader (Simon) instructs players to perform actions like "touch your nose". If Simon gives a command without saying "Simon says," players must not act; those who do are out.
+"Simon Says" is a classic children’s elimination game where players follow commands only when preceded by the phrase "Simon says". One leader (Simon) instructs players to perform actions like "touch your nose". If Simon gives a command without saying "Simon says," players must not act; those who do are out...

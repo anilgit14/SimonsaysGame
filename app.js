@@ -1,7 +1,4 @@
 
-
-
-
 let gameSeq=[];
 let userSeq=[];
 let started=false;
